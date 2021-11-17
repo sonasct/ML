@@ -1,0 +1,11 @@
+Algorithm    Dataset
+1           KNN..................KNN+Decision Tree + Random forest (or ads)
+2           KNN..................Iris
+3           Artificial Neural Network ....................Churn_Modelling
+4           Decision Tree....................................KNN+Decision Tree + Random forest (or ads)
+5           Apriori.................................................Apriori (or Market_Basket_Optimisation)
+6           Random Forest Classification.........KNN+Decision Tree + Random forest (or ads)
+7           kmeans algorithm..............................K means & hierarchical clustering (Mall_Customers)
+8           hierarchical clustering.......................K means & hierarchical clustering (Mall_Customers)
+9           factorial(python)
+10         prime number(python)
